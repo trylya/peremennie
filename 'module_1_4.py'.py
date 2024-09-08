@@ -1,0 +1,6 @@
+name=input('Введите текст: все получится')
+print(name.upper())
+print(name.lower())
+print(name.replace(' ', ''))
+print(name[1])
+print(name[-1])
