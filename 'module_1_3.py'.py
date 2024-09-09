@@ -5,4 +5,4 @@ print ('Age:', age)
 age=age+1
 print('NewAge:',age)
 
-print ('Is_student:', bool ('is_student'))
+print ('Is Student:', bool ('is_student'))
