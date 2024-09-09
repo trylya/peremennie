@@ -1,7 +1,8 @@
 name='Lena'
-print(name)
+print('Name:',name)
 age=35
-print (age)
-newAge=age+1
-print(newAge)
-print (bool ('is_student'))
+print ('Age:', age)
+age=age+1
+print('NewAge:',age)
+
+print ('Is_student:', bool ('is_student'))
